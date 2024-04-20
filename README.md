@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mario364
+- 👋 Hi, I’m @Maxim
 - 👀 I’m interested in programing 
 -  🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with microsoft 
